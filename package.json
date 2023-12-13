@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Mohit",
+	"description": "A project that does something awesome",
+	"keywords": [ "descriptive", "related", "words" ],
+	"license": "MIT",
+	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
